@@ -3,7 +3,7 @@ eureka:
     serviceUrl:
       defaultZone: http://localhost:8760/eureka/  #指定注册中心的地址。
 server:
-  port: 8763
+  port: 8761
 spring:
   application:
     name: clintOne
